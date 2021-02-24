@@ -1,0 +1,13 @@
+*.css
+*.scss
+*.css.d.ts
+*.scss.d.ts
+*.test.ts
+*.test.tsx
+
+# Allow config files to follow their own conventions
+config/*
+
+# intentionally minified js
+worldLowRes.js
+usAll.js
